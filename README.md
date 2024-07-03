@@ -29,4 +29,4 @@ The Travel Desk Management System is designed to manage and book trips efficient
    - Update the number of booked seats for a trip upon successful booking.
 
 **Testing and Validation:**
-The system has been thoroughly tested using various test cases provided in the `testcase.cpp` file. The `interaction.txt` file outlines the specific interactions and expected outcomes for the system.
+The system has been thoroughly tested using various test cases provided in the testcase.cpp file. The interaction.txt file outlines the specific interactions and expected outcomes for the system.
