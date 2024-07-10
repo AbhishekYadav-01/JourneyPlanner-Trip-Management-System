@@ -1,7 +1,6 @@
-# Travel Desk Management System
+# JourneyPlanner: Trip Management System
 
-The Travel Desk Management System is a comprehensive solution designed to manage and book trips efficiently. This system allows users to add trips, search for trips within a specified time range, and book trips. The system leverages Binary Search Trees (BST) to optimize trip searches based on departure times. The main components include Vehicle, Trip, Location, TransportService, and TravelDesk classes, each contributing to the overall functionality of the system.
-
+JourneyPlanner: Trip Management System efficiently organizes and books trips with detailed vehicle and location management. Using Binary Search Trees (BST), it optimizes trip searches by departure times and facilitates seamless booking processes. Users can add trips with vehicle specifics, manage unique locations, and search for trips based on pick-up points and timeframes. The system ensures efficient allocation of vehicles to trips and updates seat bookings automatically upon reservation.
 ## Key Features
 
 ### Trip Management
