@@ -1,6 +1,8 @@
 # JourneyPlanner: Trip Management System
 
-JourneyPlanner is a comprehensive Trip Management System designed to streamline trip management and booking processes. It allows users to add detailed trip information such as vehicle number, seating capacity, pick-up and drop locations, and departure times. Utilizing Binary Search Trees (BST), the system efficiently organizes trips and optimizes search functionalities based on departure times. It also manages vehicle allocations, linking each vehicle to its corresponding trips, and maintains a repository of unique locations associated with trips and transport services. Users can perform targeted searches for trips based on pick-up location, time range, or both pick-up and drop locations, enhancing operational efficiency. Furthermore, the system supports seamless trip bookings and automatically updates the number of booked seats upon successful reservations.
+JourneyPlanner is  a comprehensive C++ Travel Bus Management System and  to streamline the creation, management, and booking of bus trips. These systems allow users to input detailed trip information, including vehicle specifics, seating capacity, pick-up and drop locations, and departure times, all managed efficiently through Binary Search Trees (BST). The use of BST ensures optimized trip organization and quick retrieval based on departure times. Centralized trip management via the TravelDesk class provides robust functionalities for viewing trips comprehensively and booking them seamlessly. This implementation leverages advanced Tree data structures and adheres to OOP principles, enhancing operational efficiency and user experience.
+
+
 ## Key Features
 
 ### Trip Management
