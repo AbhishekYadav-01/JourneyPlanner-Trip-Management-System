@@ -1,6 +1,6 @@
 # JourneyPlanner: Trip Management System
 
-JourneyPlanner: Trip Management System efficiently organizes and books trips with detailed vehicle and location management. Using Binary Search Trees (BST), it optimizes trip searches by departure times and facilitates seamless booking processes. Users can add trips with vehicle specifics, manage unique locations, and search for trips based on pick-up points and timeframes. The system ensures efficient allocation of vehicles to trips and updates seat bookings automatically upon reservation.
+JourneyPlanner is a comprehensive Trip Management System designed to streamline trip management and booking processes. It allows users to add detailed trip information such as vehicle number, seating capacity, pick-up and drop locations, and departure times. Utilizing Binary Search Trees (BST), the system efficiently organizes trips and optimizes search functionalities based on departure times. It also manages vehicle allocations, linking each vehicle to its corresponding trips, and maintains a repository of unique locations associated with trips and transport services. Users can perform targeted searches for trips based on pick-up location, time range, or both pick-up and drop locations, enhancing operational efficiency. Furthermore, the system supports seamless trip bookings and automatically updates the number of booked seats upon successful reservations.
 ## Key Features
 
 ### Trip Management
